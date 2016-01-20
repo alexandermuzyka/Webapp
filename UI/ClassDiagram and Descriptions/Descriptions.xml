@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<p1>
+  This test project allows to save a list of workers, and additional informations, 
+  like start salary, current salary, and salary on fixed time. 
+  Business logic in ideal case should be written in separate class, but I did not do in this way.
+  Bussiness logic implemented, the directly, in inherited classes(Employee, Manager, Sales). And it is so bad.
+  In real project I prefer to separate business logic, connect a database, correct the architecture and we can get
+  scalable and profitable project.
+</p1>

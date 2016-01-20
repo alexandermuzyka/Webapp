@@ -1,0 +1,16 @@
+c:\users\admin\documents\visual studio 2013\Projects\WorkerManager\UI\bin\Debug\UI.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\WorkerManager\UI\bin\Debug\UI.exe
+c:\users\admin\documents\visual studio 2013\Projects\WorkerManager\UI\bin\Debug\UI.pdb
+c:\users\admin\documents\visual studio 2013\Projects\WorkerManager\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\WorkerManager\UI\obj\Debug\UI.exe
+c:\users\admin\documents\visual studio 2013\Projects\WorkerManager\UI\obj\Debug\UI.pdb
+c:\users\admin\documents\visual studio 2013\Projects\WorkerManager\UI\bin\Debug\Moq.dll
+c:\users\admin\documents\visual studio 2013\Projects\WorkerManager\UI\bin\Debug\Moq.xml
+D:\WorkerManager\UI\bin\Debug\UI.exe.config
+D:\WorkerManager\UI\obj\Debug\UI.exe
+D:\WorkerManager\UI\obj\Debug\UI.pdb
+D:\WorkerManager\UI\bin\Debug\UI.exe
+D:\WorkerManager\UI\bin\Debug\UI.pdb
+D:\WorkerManager\UI\bin\Debug\Moq.dll
+D:\WorkerManager\UI\bin\Debug\Moq.xml
+D:\WorkerManager\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache

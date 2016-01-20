@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UI.AbstractWorker.Worker">
+    <Position X="4.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEgACAAQAAAAEAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>AbstrtactWorker\Worker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UI.ConcreteWorker.Employee">
+    <Position X="4.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>ConcreteWorker\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UI.ConcreteWorker.Manager">
+    <Position X="1.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>ConcreteWorker\Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UI.ConcreteWorker.Sales">
+    <Position X="7" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAIAAAAAIAAAAEAAAAAAAAA=</HashCode>
+      <FileName>ConcreteWorker\Sales.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UI.Domain.ConcreteRepository">
+    <Position X="8.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Domain\ConcreteRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UI.Managing">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAQAAAAAAAAAIAAAAAEAAAAAAAAAAAEQAI=</HashCode>
+      <FileName>Managing.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Worker" />
+      <Property Name="ConcreteRepository" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="UI.Program">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Managing" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
